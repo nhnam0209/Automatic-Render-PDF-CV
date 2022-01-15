@@ -1,0 +1,125 @@
+{
+	"template_id": "a_9",
+	"profile": {
+		"fullname": "Nguyen Dinh Nhat Minh",
+		"birth": "26/06/1998",
+		"phone": "(+84) 03 1617 5581",
+		"email": "nguyendinhnhatminh@jobnet.vn",
+		"homepage": "jobnet.vn",
+		"facebook": "facebook.com/JobNetVietnam",
+		"linked": "linkedin.com/in/JobNetVietnam",
+		"github": "github.com/newai-vn"
+	},
+	"image": {
+		"avatar": "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",
+		"cover": "base64",
+		"status": "on"
+	},
+	"list_section": [
+		{
+			"name": "desc",
+			"status": "on",
+			"data":  [
+				{
+					"desc": [
+						"With the knowledge and skills, I will attain from this course, the creative ideas that I could bring into fruition would be endless. I hope to become one of the computer scientists who adapt technology to help the human race evolve. One possibility would be for artificially intelligent gadgets to recognise different people and adjust to their individual needs based on personal preferences. I have been teaching myself Objective-C syntax in my spare time and have completed online programming courses, which have allowed me to explore the endless possibilities that computer science can bring to the world. I have also learnt to create a simple iOS game using Apple’s syntax called Swift, in XCode alongside Photoshop.\nI am constantly seeking to learn new skills and gain experience from various activities. Technological advancements take place around us everyday, from the evolution of bulky antenna phones into smart phones to the introduction of smart virtual assistants such as Apple’s Siri, Google Now and Windows’ Cortana. I am inspired by the fact that computer science has become a fundamental element in the development of a better, smarter future for our world and my goal is to be part of that development process."
+
+					]
+				}
+		]
+		},
+
+		{
+			"id": "section-1",
+			"status": "on",
+			"name": "education",
+			"data": [
+				{
+					"title": "Computer Science",
+					"degree": "Bachelor",
+					"time": "2016 - 2020",
+					"desc": [
+						"University Award for outstanding CS major. \n Level 1 Strategic Communication Certification.\n Third prize - Student awards for scientific research."],
+					"org": "Ton Duc Thang University (Vietnam)",
+					"gpa": "8.50"
+				},
+				{
+					"title": "Computer Science",
+					"degree": "Master of Science",
+					"time": "2020 - 2022",
+					"desc": [
+						"Best paper award - 9th International Conference on Computational Data and Social Networks (2020), Dallas, TX."
+					],
+					"org": "Ton Duc Thang University (Vietnam)",
+					"gpa": "8.00"
+				}
+			],
+			"type": "list-loc"
+		},
+		{
+			"name": "experience",
+			"status": "on",
+			"data": [
+				{
+					"company": "NewAI Vietnam",
+					"loc": "Ho Chi Minh, Vietnam",
+					"time": "2020 - Present",
+					"pos": "Product Owner",
+					"desc": [
+
+						"Acted as liaison between business, sales and IT teams to refine the product and incorporate features based on market demands. \nPartnered with IT and product leadership to drive and manage the solution development process and ensure the product team understands the direction and vision. \nCollaborated with teams to discover and deliver the best solution to the market presented by the product team lead and the business."
+					]
+				}
+			],
+			"type": "list-desc"
+		},
+		{
+			"name": "project",
+			"status": "on",
+			"data": [
+				{
+					"title": "JobNet - Smart CV (NewAI Vietnam)",
+					"time": "01/01/2020 - Present",
+					"desc": [
+						"Applying Artificial Intelligence techniques to develop a CV maker tool in order to enhance the way of making CV. \n This project has been launched after 3 months of development."
+
+					]
+				}
+			],
+			"type": "list-desc"
+		},
+		{
+			"name": "skill",
+			"status": "on",
+			"data": [
+				{
+					"title": "English",
+					"desc": [
+						"IELTS 7.0"
+
+					]
+				},
+				{
+					"title": "(CCA175) - Cloudera CCA Spark and Hadoop Developer",
+					"desc": [
+						"Passed 9/12 performance-based tasks on Cloudera Enterprise cluster."
+					]
+				}
+			],
+			"type": "list-desc"
+		},
+
+		{
+			"name": "award",
+			"status": "on",
+			"data": [
+				{
+					"title": "2021 Employee of the Year",
+					"time": "31/12/2021",
+					"org": "NewAI Vietnam"
+				}
+			]
+		}
+
+	]
+}
